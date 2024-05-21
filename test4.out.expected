@@ -1,0 +1,5 @@
+INTLITERAL:1 [1,1]
+ID:test [2,1]
+ID:while1_ [2,6]
+WHILE [3,1]
+EOF [5,1]

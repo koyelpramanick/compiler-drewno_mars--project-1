@@ -1,0 +1,2 @@
+FATAL [7,1]-[7,13]: Integer literal overflow
+FATAL [8,1]-[8,2]: Illegal character @

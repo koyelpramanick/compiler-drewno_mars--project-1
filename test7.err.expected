@@ -1,0 +1,4 @@
+FATAL [5,1]-[5,23]: String literal with bad escape sequence detected
+FATAL [7,1]-[7,38]: Unterminated string literal detected
+FATAL [8,10]-[8,25]: Integer literal overflow
+FATAL [9,1]-[9,36]: Unterminated string literal with bad escape sequence detected

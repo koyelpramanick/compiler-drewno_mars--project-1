@@ -1,0 +1,3 @@
+FATAL [1,5]-[1,7]: Unterminated string literal detected
+FATAL [3,1]-[3,48]: Unterminated string literal detected
+FATAL [8,7]-[8,8]: Illegal character ?

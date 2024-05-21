@@ -1,0 +1,7 @@
+STRINGLITERAL:"\\" [3,1]
+STRINGLITERAL:"test" [5,1]
+STRINGLITERAL:"testing // inside string literal" [8,1]
+STRINGLITERAL:"blah blah \" blah" [9,1]
+STRINGLITERAL:"'quote' in a string" [10,1]
+STRINGLITERAL:"@@@$$#$$##@@!!@#$$%%^&*()))(**&&^^%$$##@" [11,1]
+EOF [13,46]

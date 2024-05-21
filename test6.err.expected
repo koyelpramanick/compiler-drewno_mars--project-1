@@ -1,0 +1,8 @@
+FATAL [1,1]-[1,48]: String literal with bad escape sequence detected
+FATAL [2,1]-[2,5]: String literal with bad escape sequence detected
+FATAL [3,5]-[3,6]: Unterminated string literal detected
+FATAL [4,1]-[4,14]: Unterminated string literal detected
+FATAL [6,1]-[6,10]: String literal with bad escape sequence detected
+FATAL [7,1]-[7,8]: String literal with bad escape sequence detected
+FATAL [12,1]-[12,55]: Unterminated string literal with bad escape sequence detected
+FATAL [13,1]-[13,46]: Unterminated string literal with bad escape sequence detected
